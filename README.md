@@ -6,7 +6,7 @@
 
 【高途上面只要购买过的，已经过期的课程也可以下载！】
 
-工具获取地址：https://pyjun.lanzoue.com/s/course-downloader
+工具获取地址：https://lanzouw.com/s/course-downloader
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
